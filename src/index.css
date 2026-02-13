@@ -7,6 +7,15 @@
     src: url("/fonts/Modern Negra Demo.ttf") format("truetype");
 }
 
+.mx-50{
+    margin: 0 50px;
+}
+
+.width-90{
+    width: 90%;
+    margin: 0 auto;
+}
+
 @theme {
     --color-yellow: #e7d393;
     --color-white-100: #efefef;
